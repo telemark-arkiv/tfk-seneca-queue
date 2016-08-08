@@ -1,6 +1,6 @@
 {
   "name": "tfk-seneca-queue",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Our queue service",
   "license": "MIT",
   "author": {
