@@ -1,5 +1,7 @@
 # tfk-seneca-queue
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-seneca-queue.svg)](https://greenkeeper.io/)
+
 Our queue service
 
 ## Messages handled
